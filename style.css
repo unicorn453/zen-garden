@@ -200,3 +200,12 @@ footer a:visited {
   width: 148px;
   height: 110px;
 }
+footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: aquamarine;
+}
+p {
+  shape-outside: margin-box;
+  line-height: 1;
+}
